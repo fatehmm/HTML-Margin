@@ -1,0 +1,61 @@
+* {
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+color: white;
+}
+#main {
+    width: 600px;
+    height: auto;
+    margin: 0 auto;
+    background-color: hwb(208 94% 0%);
+    background-image: url(https://media.istockphoto.com/photos/blue-star-light-picture-id468075380?k=20&m=468075380&s=612x612&w=0&h=tSYRB-O2AGiV2wGjgx1Lqx9AO7ekUHYBFmVFbtUJRdo=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+#title {
+    font-size: 50px;
+    
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.p227 {
+    font-size: 50px;
+    text-align: left;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   
+}
+.text {
+    font-size: 24px;
+    
+}
+#form input {
+    width: 520px;
+    height: 40px;
+    font-size: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-left: 1vw;
+    
+}
+#form textarea {
+    width: 520px;
+    margin-left: 1vw;
+    padding: 10px;
+    font-size: 20px;
+}
+#form button {
+    width: 520px;
+    margin-left: 30px;
+    padding: 10px;
+    height: 50px;
+    color: white;
+    background-color: green;
+    font-size: 20px;
+    margin-top: 20px;
+
+}
+#design 
+{
+   text-align: center;
+}
